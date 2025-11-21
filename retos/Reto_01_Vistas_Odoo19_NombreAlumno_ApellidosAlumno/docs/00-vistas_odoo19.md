@@ -1,6 +1,6 @@
 # Vistas en Odoo 19 — {Nombre Apellidos}
 
-**Reto:** Reto_01_Vistas_Odoo19_{Nombre}_{Apellidos}**Proyecto:** Proyecto_RA3_UT3**Fecha:** 2025-11-21
+**Reto:** Reto_01_Vistas_Odoo19_Jose_Angel_Ruiz_Garceran **Proyecto:** Proyecto_RA3_UT3**Fecha:** 2025-11-21
 
 > Documento **único** con todas las vistas. Usa **Developer Mode** para confirmar cada tipo de vista.
 
